@@ -2,3 +2,6 @@ a=int(float(input("Cik daudz abolus ir kg")
 cuk= a/2
 cena= int(float(input("Cik maksa viens kg cukura")
 sum= a+cuk
+Kopeja_sum = sum*0,9 
+
+print(cuk)
