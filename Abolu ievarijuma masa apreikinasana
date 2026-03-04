@@ -5,3 +5,5 @@ sum= a+cuk
 Kopeja_sum = sum*0,9 
 
 print(cuk)
+print(sum)
+print(Kopeja_sum)
